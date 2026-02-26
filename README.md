@@ -7,7 +7,7 @@
 [![CircuitPython](https://img.shields.io/badge/circuitpython-8.2+-blue.svg)](https://circuitpython.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-A comprehensive benchmarking suite for ML accelerators across the entire spectrum of computing devices - from powerful edge AI accelerators to resource-constrained microcontrollers.
+A comprehensive benchmarking suite for ML accelerators across the entire spectrum of computing devices - from powerful edge AI accelerators to resource-constrained microcontrollers, but primarily - and initially - focused on SBCs and microcontrollers.
 
 ## Table of Contents
 - [Overview](#overview)
